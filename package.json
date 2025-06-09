@@ -1,0 +1,23 @@
+{
+  "name": "june-scheduler-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^0.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8"
+  },
+  "homepage": "https://Hyojjung.github.io/san_calender.git"
+}
