@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/san_calender.git/static/css/main.30600b63.css",
-    "main.js": "/san_calender.git/static/js/main.0fea7f7c.js",
-    "index.html": "/san_calender.git/index.html",
-    "main.30600b63.css.map": "/san_calender.git/static/css/main.30600b63.css.map",
-    "main.0fea7f7c.js.map": "/san_calender.git/static/js/main.0fea7f7c.js.map"
+    "main.css": "/san_calender/static/css/main.30600b63.css",
+    "main.js": "/san_calender/static/js/main.0fea7f7c.js",
+    "index.html": "/san_calender/index.html",
+    "main.30600b63.css.map": "/san_calender/static/css/main.30600b63.css.map",
+    "main.0fea7f7c.js.map": "/san_calender/static/js/main.0fea7f7c.js.map"
   },
   "entrypoints": [
     "static/css/main.30600b63.css",
